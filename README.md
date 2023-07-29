@@ -1,1 +1,1 @@
-# typesofactivation
+<h1> ACTIVATION FUNCTION FOR THE MACHINE LEARNING</h1>
